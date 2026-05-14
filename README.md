@@ -1,4 +1,4 @@
-# Blueprint
+# BigBlueprint
 
 TJs 6th grade teacher posts the week's homework as a table in a Google Doc every Monday. We wrote this to dump the assignments into our family Google Calendar instead.
 
